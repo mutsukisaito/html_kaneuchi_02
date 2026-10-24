@@ -383,7 +383,7 @@ header .header_nav ul li {
     background: var(--bg-light);
     padding: 36px;
     /* 「A - B」と「C」の小さい方の値が適用される */
-    width: min(90% - 1rem, 800px);
+    width: min(100% - 1rem, 800px);
     margin-inline: auto;
     border-radius: 20px;
 }
