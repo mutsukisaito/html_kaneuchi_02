@@ -444,6 +444,10 @@ header .header_nav ul li {
     border-radius: 8px;
 }
 
+input::placeholder, textarea::placeholder {
+  color: #AAA;
+}
+
 /* textarea：入力量に合わせて広がる */
 textarea.form-input {
     min-block-size: 4lh;
